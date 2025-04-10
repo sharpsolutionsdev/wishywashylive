@@ -399,7 +399,7 @@ li {
 }
 
 #links-page1 {
-    padding-top: 530px;
+    padding-top: 0;
     padding-bottom: 90px;
 }
 
@@ -731,7 +731,7 @@ img#google {
     }
 
     #links-page1 {
-        padding: 100px 0 0;
+        padding-top: 530px;
     }
 
 
