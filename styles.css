@@ -33,6 +33,7 @@ a {
 .socials,
 header {
     text-align: center;
+    
 }
 
 body {
@@ -398,7 +399,7 @@ li {
 }
 
 #links-page1 {
-    padding-top: 0;
+    padding-top: 530px;
     padding-bottom: 90px;
 }
 
