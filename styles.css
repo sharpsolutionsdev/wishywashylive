@@ -708,7 +708,7 @@ img#google {
 
     .logo-container {
         padding: 0 8px;
-        height: 300px;
+        height: auto;
         margin: 0;
         align-items: center;
     }
