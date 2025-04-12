@@ -1,5 +1,17 @@
 
 
+@media screen and (min-width: 769px) and (max-width: 2000px) {
+    header{
+        margin-top: 20px;
+    }
+}
+
+@media screen and (min-width: 439px) and (max-width: 1000px) {
+    header{
+        padding-bottom: 80px;
+    }
+}
+
 body,
 header {
     background-color: #013358;
@@ -61,6 +73,7 @@ textarea {
         margin-bottom: 20px;
         padding-bottom: 1000px;
     }
+
 
     .socials {
         margin-bottom: 20px;
@@ -216,7 +229,7 @@ header {
     }
 
     .icon-container {
-        width: 24px;
+        width: auto;
         height: auto;
     }
 
@@ -305,7 +318,7 @@ header {
     }
 
     .icon-container {
-        width: 24px;
+        width: auto;
         height: auto;
     }
 }
@@ -321,7 +334,7 @@ header {
     }
 
     .icon-container {
-        width: 24px;
+        width: auto;
         height: auto;
     }
 
@@ -688,6 +701,7 @@ img#google {
     .flex-container {
         flex-direction: row;
         align-items: center;
+        margin-bottom: 30px;
         height: 20vh;
     }
 
