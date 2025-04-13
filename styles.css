@@ -678,6 +678,8 @@ img#google {
     padding-left: 5vw;
 }
 
+
+
 @media screen and (max-width: 768px) {
     .Images {
         display: none;
@@ -846,6 +848,15 @@ img#google {
     font-family: Uber, sans-serif;
 }
 
+.email-hov:hover{
+    color: rgb(0, 175, 210) !important;
+}
+
+.email-hov.footer:hover{
+    color: rgb(185, 188, 189) !important;
+}
+
+
 .card,
 .card:hover,
 .card:hover .filledbar,
@@ -854,7 +865,7 @@ img#google {
 }
 
 .book-now-btn:hover {
-    background-color: #c10ea8;
+    background-color: #5e6360;
 }
 
 .container-cards {
